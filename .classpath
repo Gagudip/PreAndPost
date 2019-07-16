@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/gsingh/Desktop/Softwares/selenium-java-3.141.59/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gsingh/Desktop/Softwares/selenium-java-3.141.59/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gsingh/Desktop/Softwares/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gsingh/Desktop/Softwares/selenium-java-3.141.59/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gsingh/Desktop/Softwares/selenium-java-3.141.59/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gsingh/Desktop/Softwares/selenium-java-3.141.59/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gsingh/Desktop/Softwares/selenium-java-3.141.59/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gsingh/Desktop/Softwares/Jars/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gsingh/Desktop/Softwares/Jars/javax.mail-1.4.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gsingh/Desktop/Softwares/javamail1_4_7/javamail-1.4.7/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gsingh/Desktop/Softwares/javamail1_4_7/javamail-1.4.7/lib/dsn.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gsingh/Desktop/Softwares/javamail1_4_7/javamail-1.4.7/lib/gimap.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gsingh/Desktop/Softwares/javamail1_4_7/javamail-1.4.7/lib/imap.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gsingh/Desktop/Softwares/javamail1_4_7/javamail-1.4.7/lib/mailapi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gsingh/Desktop/Softwares/javamail1_4_7/javamail-1.4.7/lib/pop3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gsingh/Desktop/Softwares/javamail1_4_7/javamail-1.4.7/lib/smtp.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/gsingh/Desktop/Softwares/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gsingh/Desktop/Softwares/ganymed-ssh2-build210/ganymed-ssh2-build210.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
